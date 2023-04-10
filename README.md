@@ -1,6 +1,8 @@
 node -v
 v16.4.2
 
+node-mysql-jwt-auth
+
 # NodeJS Auth REST API example with Express, Mysql, and JWT
 
 ## Features
